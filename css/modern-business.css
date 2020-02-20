@@ -43,3 +43,8 @@ body {
 .embed-container.ratio4x3 {
   padding-bottom: 75%;
 }
+
+.row-footer{
+  display: flex;
+  justify-content: center;
+}
