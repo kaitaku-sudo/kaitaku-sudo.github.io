@@ -52,4 +52,6 @@ body {
 .image{
   max-height: 200px;
   max-width: 160px;
+  border: goldenrod;
+  border-style: groove;
 }
