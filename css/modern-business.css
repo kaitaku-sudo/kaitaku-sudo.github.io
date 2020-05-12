@@ -24,8 +24,8 @@ body {
   /*overflow-y: scroll;*/
   /*border: 1px solid gray;*/
   /*scroll-snap-type: y proximity;*/
-  width: 300px;
-  height: 200px;
+  width: auto;
+  height: 100vH;
 
   overflow-y: scroll; /* has to be scroll, not auto */
   -webkit-overflow-scrolling: touch;
