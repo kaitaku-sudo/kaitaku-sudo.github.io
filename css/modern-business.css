@@ -25,13 +25,13 @@ body {
   /*border: 1px solid gray;*/
   /*scroll-snap-type: y proximity;*/
   /*padding-left: 10%;*/
-  border: goldenrod;
+  border: 3px goldenrod;
   border-style: solid;
   width: auto;
   height: 100vH;
 
   overflow-y: scroll; /* has to be scroll, not auto */
-  -webkit-overflow-scrolling: touch;
+  -webkit-overflow-scrolling: auto;
 }
 
 .portfolio-item {
