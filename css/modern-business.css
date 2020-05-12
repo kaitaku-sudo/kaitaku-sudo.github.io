@@ -25,6 +25,8 @@ body {
   /*border: 1px solid gray;*/
   /*scroll-snap-type: y proximity;*/
   /*padding-left: 10%;*/
+  border: goldenrod;
+  border-style: solid;
   width: auto;
   height: 100vH;
 
