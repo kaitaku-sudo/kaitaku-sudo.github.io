@@ -19,11 +19,16 @@ body {
 }
 
 .slideout-twitter  {
-  flex-basis: 50%;
-  max-height: 100vh;
-  overflow-y: scroll;
-  border: 1px solid gray;
-  scroll-snap-type: y proximity;
+  /*flex-basis: 50%;*/
+  /*max-height: 100vh;*/
+  /*overflow-y: scroll;*/
+  /*border: 1px solid gray;*/
+  /*scroll-snap-type: y proximity;*/
+  width: 300px;
+  height: 200px;
+
+  overflow-y: scroll; /* has to be scroll, not auto */
+  -webkit-overflow-scrolling: touch;
 }
 
 .portfolio-item {
