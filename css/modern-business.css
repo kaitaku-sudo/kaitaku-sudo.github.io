@@ -18,6 +18,12 @@ body {
 
 }
 
+.slideout-twitter  {
+  -webkit-overflow-scrolling: touch;
+  min-height: 100vh;
+  overflow-y: scroll;
+}
+
 .portfolio-item {
   margin-bottom: 30px;
 }
