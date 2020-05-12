@@ -19,9 +19,11 @@ body {
 }
 
 .slideout-twitter  {
-  -webkit-overflow-scrolling: touch;
-  min-height: 100vh;
+  flex-basis: 50%;
+  max-height: 100vh;
   overflow-y: scroll;
+  border: 1px solid gray;
+  scroll-snap-type: y proximity;
 }
 
 .portfolio-item {
