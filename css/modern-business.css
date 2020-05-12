@@ -24,7 +24,7 @@ body {
   /*overflow-y: scroll;*/
   /*border: 1px solid gray;*/
   /*scroll-snap-type: y proximity;*/
-  position: relative;
+  padding-left: 10%;
   width: auto;
   height: 100vH;
 
